@@ -19,17 +19,6 @@ Here are some ideas to get you started:
 
 😻 I am a cat person and like to leverage what I've learned to bring cutting-edge solutions to the table.
 
-
-### Skills box 
-
-
-
-
-
-
-### Contact me 
-
-
 Welcome to my playground ! 
 
  <img src="https://github.com/Jason082666/Jason082666/assets/105638495/43a819fc-98ba-4d5c-a56b-30ffb05320c2" width = "300" height = "200" alt="cat" align=center />
