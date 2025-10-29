@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🐧 I am currently a Back-End engineer and also a MBA student.
+🐧 Software Engineer
 
 😻 I am a cat person and like to leverage what I've learned to bring cutting-edge solutions to the table.
 
